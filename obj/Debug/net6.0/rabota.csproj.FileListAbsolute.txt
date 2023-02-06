@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Itogovaja\rabota\bin\Debug\net6.0\rabota.exe
+C:\Users\User\Desktop\Itogovaja\rabota\bin\Debug\net6.0\rabota.deps.json
+C:\Users\User\Desktop\Itogovaja\rabota\bin\Debug\net6.0\rabota.runtimeconfig.json
+C:\Users\User\Desktop\Itogovaja\rabota\bin\Debug\net6.0\rabota.dll
+C:\Users\User\Desktop\Itogovaja\rabota\bin\Debug\net6.0\rabota.pdb
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.AssemblyInfo.cs
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.dll
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\refint\rabota.dll
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.pdb
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\rabota.genruntimeconfig.cache
+C:\Users\User\Desktop\Itogovaja\rabota\obj\Debug\net6.0\ref\rabota.dll
